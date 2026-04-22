@@ -8,6 +8,13 @@ The workflow covers data cleaning, feature engineering, exploratory data analysi
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](E-CommerceSalesDashboard.png)
+
+---
+
+
 ## 🎯 Objectives
 
 * Analyze overall sales performance and revenue trends
@@ -159,14 +166,6 @@ Built an interactive dashboard including:
 * No repeat purchase behavior observed
 * Customer segmentation is primarily based on spending
 * High-value customers contribute disproportionately to revenue
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](E-CommerceSalesDashboard.png)
-
----
 
 
 ## 🚀 Future Improvements
